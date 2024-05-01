@@ -4,7 +4,7 @@
 This documentation provides a step-by-step guide to resolve the vulnerability 105146, where world-writable directories are found without their sticky bits set on a SUSE Linux Enterprise Server 15 SP4 host. Setting the sticky bit on world-writable directories is considered a best practice to enhance security.
 
 ## Affected System
-- IP Address: 10.97.65.210
+- IP Address: ***#########***
 - Hostname: viparlink-dev.cech.uc.edu
 - Operating System: SUSE Linux Enterprise Server 15 SP4
 
