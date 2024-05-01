@@ -5,7 +5,7 @@ This documentation provides a step-by-step guide to resolve the vulnerability 10
 
 ## Affected System
 - IP Address: ***#########***
-- Hostname: viparlink-dev.cech.uc.edu
+- Hostname: ###################
 - Operating System: SUSE Linux Enterprise Server 15 SP4
 
 ## Vulnerability Details
@@ -20,7 +20,7 @@ This documentation provides a step-by-step guide to resolve the vulnerability 10
 `/tmp/SPLUNK_UPDATER_MONITORED_DIR#`
 
 ## Resolution Steps
-1. Log in to the affected system (viparlink-dev.cech.uc.edu) using an account with sudo or root privileges.
+1. Log in to the affected system (###################) using an account with sudo or root privileges.
 
 2. Open a terminal and navigate to the affected directory:
    ```bash
