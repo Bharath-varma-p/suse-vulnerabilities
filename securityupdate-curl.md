@@ -1,5 +1,5 @@
 
-```markdown
+
 # Applying Security Update for curl (SUSE-SU-2024:1151-1) on SUSE Linux Enterprise Server 15 SP4
 
 ## 1. Introduction
@@ -55,6 +55,4 @@ This documentation provides a step-by-step guide to apply the security update fo
 ## 7. Conclusion
 By following the steps outlined in this documentation, you should be able to successfully apply the security update SUSE-SU-2024:1151-1 for curl on the SUSE Linux Enterprise Server 15 SP4 host, addressing the vulnerabilities CVE-2024-2398 and CVE-2024-2004. Regularly monitoring and applying security updates is crucial for maintaining the security and stability of your systems.
 For more information, refer to the openSUSE security advisory: SUSE-SU-2024:1151-1
-```
 
-Please note that the code blocks within the list are not correctly formatted as code blocks. They should be fixed to display properly in Markdown.
